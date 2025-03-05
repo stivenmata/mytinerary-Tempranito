@@ -1,0 +1,23 @@
+{
+  "name": "mytinerary-tempranito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stivenmata/mytinerary-Tempranito.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stivenmata/mytinerary-Tempranito/issues"
+  },
+  "homepage": "https://github.com/stivenmata/mytinerary-Tempranito#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
