@@ -1,5 +1,5 @@
 import "dotenv/config.js";
-import "../../config/database.js"; // Asegura que la conexión se establece
+import "../../config/database.js"; 
 import Category from "../Category.js";
 
 const categories = [

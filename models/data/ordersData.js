@@ -1,3 +1,5 @@
+import "dotenv/config.js"
+import "../../config/database.js"
 import Order from "../Order.js";
 
 let orders = [
